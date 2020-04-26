@@ -30,14 +30,14 @@ Witch
 
 Good:	
 
-Villager
-* -No abilities :(
-* -Win when the Witch is lynched
+* Villager
+ * No abilities :(
+* Win when the Witch is lynched
 * Doctor
-* -Once a night, select somebody to heal
-* -You may only heal yourself once per game
-* -Healed: If you are attacked that night, you do not die
-* -Wins when the witch is lynched
-Seer
-* -Gets to watch one player a night, gets to see what happens to the player that night, if they were healed, silenced, or attacked.
-* -Wins when evils are dead
+  * Once a night, select somebody to heal
+  * You may only heal yourself once per game
+  * Healed: If you are attacked that night, you do not die
+   * Wins when the witch is lynched
+* Seer
+  * Gets to watch one player a night, gets to see what happens to the player that night, if they were healed, silenced, or attacked.
+  * Wins when evils are dead
