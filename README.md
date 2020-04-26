@@ -14,7 +14,7 @@ Night
 * Next, the doctor chooses somebody to heal
 * Finally, the seer selects somebody to watch that night
 
-\n
+*
 Roles
 
 Evil:
