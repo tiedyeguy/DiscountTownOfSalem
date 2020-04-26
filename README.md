@@ -14,11 +14,10 @@ Night
 * Next, the doctor chooses somebody to heal
 * Finally, the seer selects somebody to watch that night
 
-*
+
 Roles
 
 Evil:
-
 Witch
 * Wins when they are the last standing person
 * Every night, selects one person to kill
@@ -28,7 +27,6 @@ Witch
   * If somebody is put up, you may still vote thumbs up, sideways, or down
 
 Good:	
-
 * Villager
  * No abilities :(
 * Win when the Witch is lynched
