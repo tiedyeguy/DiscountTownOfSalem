@@ -4,16 +4,15 @@ A knock-off Town of Salem game to play with friends using Processing.
 Game Phases
 
 Day
-You have 2 minutes to talk and accuse freely (You can end day early)
-If you want to lynch somebody, type their name in the voting part
-If some has a equal or majority votes (unless it is 1 to 1) then they get put up
-Once you are put up, you have a little bit where only you can talk, then call a vote on yourself, people vote simultaneously with a thumbs up for inno, sideways to abstain, and thumbs down to guilty
-If there are more guilty votes then there are inno votes, then they are lynched
+* You have 3 minutes to talk and accuse freely (You can end day early)
+* If some has a equal or majority votes (unless it is 1 to 1) then they get put on trial
+* Once you are on trial, you have 30 seconds where only you can talk or end your time early, then people vote simultaneously with a thumbs up for innocent, sideways to abstain, and thumbs down for guilty
+* If there are more guilty votes then there are innocent votes, then they are lynched
 
 Night
-Rose will run the night phase! Everybody closes their eyes then witch first, then doctor goes
-First, the witch selects somebody to kill, clicks on their name in the outline, then writes “attacked” under their name, then clicks back on Day in the outline
-Second, the doctor first decides who they’ll heal, clicks on their name, then writes healed under their name, then clicks back on Day (don’t change who you’ll heal if you see somebody is attacked!)
+* First, the witch decides who they would like to kill and who they would like to silence if they choose to do so
+* Next, the doctor chooses somebody to heal
+* Finally, the seer selects somebody to watch that night
 
 
 Roles
