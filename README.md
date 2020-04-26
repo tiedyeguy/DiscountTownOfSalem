@@ -21,23 +21,23 @@ Roles
 Evil:
 
 Witch
-*Wins when they are the last standing person
-*Every night, selects one person to kill
-*Once a game gets to silence somebody
-*Silenced: You may not speak, or convey any language through face, laughing, and nodding
-  *You can still vote people up to trial
-  *If somebody is put up, you may still vote thumbs up, sideways, or down
+* Wins when they are the last standing person
+* Every night, selects one person to kill
+* Once a game gets to silence somebody
+* Silenced: You may not speak, or convey any language through face, laughing, and nodding
+  * You can still vote people up to trial
+  * If somebody is put up, you may still vote thumbs up, sideways, or down
 
 Good:	
 
 Villager
-*-No abilities :(
-*-Win when the Witch is lynched
-*Doctor
-*-Once a night, select somebody to heal
-*-You may only heal yourself once per game
-*-Healed: If you are attacked that night, you do not die
-*-Wins when the witch is lynched
+* -No abilities :(
+* -Win when the Witch is lynched
+* Doctor
+* -Once a night, select somebody to heal
+* -You may only heal yourself once per game
+* -Healed: If you are attacked that night, you do not die
+* -Wins when the witch is lynched
 Seer
-*-Gets to watch one player a night, gets to see what happens to the player that night, if they were healed, silenced, or attacked.
-*-Wins when evils are dead
+* -Gets to watch one player a night, gets to see what happens to the player that night, if they were healed, silenced, or attacked.
+* -Wins when evils are dead
