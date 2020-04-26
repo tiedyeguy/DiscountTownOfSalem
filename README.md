@@ -21,11 +21,16 @@ Roles
 Evil:
 Witch
 -Wins when they are the last standing person
+
 -Every night, selects one person to kill
 -Once a game gets to silence somebody
+
 -Silenced: You may not speak, or convey any language through face, laughing, and nodding
+
   -You can still vote people up to trial
+  
   -If somebody is put up, you may still vote thumbs up, sideways, or down
+  
 
 Good:	
 Villager
