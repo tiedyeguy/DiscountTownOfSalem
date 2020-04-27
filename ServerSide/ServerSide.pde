@@ -1,5 +1,6 @@
 // TODO: SOMETHING (BUTTON PRESS?) SHOULD START THE GAME AFTER DESIRED PLAYERS HAVE ENTERED
 // (in initGame() probably)
+// Also, fill in handler functions
 
 import processing.net.*;
 
